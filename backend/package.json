@@ -1,0 +1,14 @@
+{
+  "name": "collaborator-backend",
+  "version": "1.0.0",
+  "description": "Express backend for Collaborator application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cullen-H",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
